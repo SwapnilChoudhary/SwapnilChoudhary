@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Choudhary</h1>
 <h3 align="center">A fervent front-end developer hailing from Rajasthan, India.</h3>
 
-<img align="right" alt="coding" width="400" src=" https://github.com/SwapnilChoudhary/SwapnilChoudhary/assets/113551997/b7aade8c-e58c-4236-aa2f-92a8e75ae3d6)](https://github-production-user-asset-6210df.s3.amazonaws.com/113551997/321161467-b7aade8c-e58c-4236-aa2f-92a8e75ae3d6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240410%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240410T082738Z&X-Amz-Expires=300&X-Amz-Signature=bd7573193d3b842829cd9e6c877cd51e8fa94fcc46012f953f56f8e15ad9cf25&X-Amz-SignedHeaders=host&actor_id=113551997&key_id=0&repo_id=784623508
- ">
+<img align="right" alt="coding" width="400" src=" https://github.com/SwapnilChoudhary/SwapnilChoudhary/assets/113551997/b373eb87-c224-4672-bc17-0b0377c95ac2 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilchoudhary" /> </p>
 
