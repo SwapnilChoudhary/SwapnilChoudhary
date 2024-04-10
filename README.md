@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Choudhary</h1>
 <h3 align="center">A fervent front-end developer hailing from Rajasthan, India.</h3>
 
-![gif](https://media.giphy.com/media/nae6mec378lsg1i3/giphy.gif)
+![gif](animated-man-computer-coding-nae6mec378lsg1i3.gif)
 
 <p align="left">
   <a href="https://github.com/swapnilchoudhary" target="_blank">
