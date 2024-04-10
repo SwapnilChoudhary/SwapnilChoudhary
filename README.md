@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swapnil Choudhary</h1>
 <h3 align="center">A fervent front-end developer hailing from Rajasthan, India.</h3>
 
-<img align="right" alt="coding" width="400" src=" https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif ">
+<img align="right" alt="coding" width="400" src=" ![animated-man-computer-coding-nae6mec378lsg1i3](https://github.com/SwapnilChoudhary/SwapnilChoudhary/assets/113551997/7df2f2ef-a42f-4af3-b6fa-cef1eb558584)
+ ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilchoudhary" /> </p>
 
