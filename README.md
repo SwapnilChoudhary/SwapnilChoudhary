@@ -12,6 +12,9 @@
 
 <h3 align="left">🌱 Currently Learning:</h3>
 <p align="left">
+    <a href="https://www.salesforce.com/trailblazer/s2q6t5k2narnpz8mwu" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/>
+  </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
