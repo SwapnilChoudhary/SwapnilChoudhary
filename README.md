@@ -2,15 +2,7 @@
 <h1 align="center">Hey there 👋, I'm Swapnil Choudhary</h1>
 <h3 align="center">A fervent front-end developer hailing from Rajasthan, India.</h3>
 
-<img src="animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding animation" width="200" class="right-image">
-
-<style>
-  .right-image {
-    float: right;
-    width: 200px;
-  }
-</style>
-
+<img align="right" src="animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="Coding animation" width="300" class="right-image">
 
 <p align="left">
   <a href="https://github.com/swapnilchoudhary" target="_blank">
