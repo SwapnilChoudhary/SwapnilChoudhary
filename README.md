@@ -1,5 +1,4 @@
-![banner](![Industry-Disrupted-Programming-main-banner](https://github.com/SwapnilChoudhary/SwapnilChoudhary/assets/113551997/0a9ec80a-cf69-482b-a859-b13ffe440ec0)
-)
+![banner](https://github.com/SwapnilChoudhary/SwapnilChoudhary/assets/113551997/0a9ec80a-cf69-482b-a859-b13ffe440ec0)
 <h1 align="center">Hey there 👋, I'm Swapnil Choudhary</h1>
 <h3 align="center">A fervent front-end developer hailing from Rajasthan, India.</h3>
 
