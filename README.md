@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swapnil Choudhary</h1>
+<h1 align="center">Hey there 👋, I'm Swapnil Choudhary</h1>
 <h3 align="center">A fervent front-end developer hailing from Rajasthan, India.</h3>
 
 ![gif](animated-man-computer-coding-nae6mec378lsg1i3.gif)
