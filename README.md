@@ -45,50 +45,50 @@
 ## 🛠️ Tech Stack
 
 ### ☁️ Salesforce Platform
-![Salesforce](https://img.shields.io/badge/Salesforce-032D60?style=flat-square&logo=salesforce&logoColor=white)
-![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-032D60?style=flat-square&logo=salesforce&logoColor=white)
-![Service Cloud](https://img.shields.io/badge/Service%20Cloud-032D60?style=flat-square&logo=salesforce&logoColor=white)
-![Agentforce](https://img.shields.io/badge/Agentforce-032D60?style=flat-square&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-032D60?style=flat-square&logo=salesforce&logoColor=white)
-![Flow Builder](https://img.shields.io/badge/Flow%20Builder-032D60?style=flat-square&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-032D60?style=flat-square&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-032D60?style=flat-square&logo=salesforce&logoColor=white)
+[![Salesforce](https://img.shields.io/badge/Salesforce-032D60?style=flat-square&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs)
+[![Sales Cloud](https://img.shields.io/badge/Sales%20Cloud-032D60?style=flat-square&logo=salesforce&logoColor=white)](https://help.salesforce.com/s/articleView?id=sf.sales_core.htm)
+[![Service Cloud](https://img.shields.io/badge/Service%20Cloud-032D60?style=flat-square&logo=salesforce&logoColor=white)](https://help.salesforce.com/s/articleView?id=sf.service_cloud.htm)
+[![Agentforce](https://img.shields.io/badge/Agentforce-032D60?style=flat-square&logo=salesforce&logoColor=white)](https://developer.salesforce.com/agentforce)
+[![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-032D60?style=flat-square&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/component-library/documentation/en/lwc)
+[![Flow Builder](https://img.shields.io/badge/Flow%20Builder-032D60?style=flat-square&logo=salesforce&logoColor=white)](https://help.salesforce.com/s/articleView?id=sf.flow.htm)
+[![Apex](https://img.shields.io/badge/Apex-032D60?style=flat-square&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode)
+[![SOQL](https://img.shields.io/badge/SOQL-032D60?style=flat-square&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl)
 
 > 🥇 Double Star Ranger · 250+ Badges · Superbadges · **Agentblazer Innovator** · Agentblazer Legend *(all badges except certification)*
 
 ---
 
 ### 🌐 Front-End Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/docs)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ---
 
 ### 🎮 Game Development
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-0-documentation)
+[![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)](https://docs.blender.org)
 
 ---
 
 ### 🖥️ Infrastructure & Deployment
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/server/docs)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/en/docs)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/docs)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://dev.mysql.com/doc)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
 
 ---
 
 ### 📐 Languages & Design
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cppreference.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://help.figma.com)
 
 ---
 
